@@ -1,0 +1,2 @@
+# Tamawashi
+Javascript Tamagotchi emulator
